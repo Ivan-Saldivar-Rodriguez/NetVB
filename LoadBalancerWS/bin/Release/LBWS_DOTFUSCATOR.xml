@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.1.dtd">
+<dotfuscator version="2.1">
+  <!--Esta aplicación generó código. No se puede editar manualmente.-->
+  <global>
+    <option>verbose</option>
+  </global>
+  <input>
+    <asmlist>
+      <inputassembly>
+        <file dir="C:\PROYECTOS\GESAP\LBWS\LoadBalancerWS\bin\Release" name="LoadBalancerWS.dll" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="C:\IVAN_TEMP" />
+  </output>
+  <tempdir>
+    <file dir="C:\PROYECTOS\GESAP\LBWS" />
+  </tempdir>
+  <renaming>
+    <excludelist>
+      <module name="LoadBalancerWS.dll" assemblyname="LoadBalancerWS" />
+    </excludelist>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+      </mapoutput>
+    </mapping>
+  </renaming>
+</dotfuscator>

@@ -1,0 +1,9 @@
+F:\LBWS\LoadBalancerWS\bin\Debug\LoadBalancerWS.dll
+F:\LBWS\LoadBalancerWS\bin\Debug\LoadBalancerWS.pdb
+F:\LBWS\LoadBalancerWS\bin\Debug\LoadBalancerWS.xml
+F:\LBWS\LoadBalancerWS\obj\Debug\ResolveAssemblyReference.cache
+F:\LBWS\LoadBalancerWS\obj\Debug\LoadBalancer.Resources.resources
+F:\LBWS\LoadBalancerWS\obj\Debug\LoadBalancerWS.vbproj.GenerateResource.Cache
+F:\LBWS\LoadBalancerWS\obj\Debug\LoadBalancerWS.dll
+F:\LBWS\LoadBalancerWS\obj\Debug\LoadBalancerWS.xml
+F:\LBWS\LoadBalancerWS\obj\Debug\LoadBalancerWS.pdb
