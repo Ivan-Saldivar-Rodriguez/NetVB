@@ -1,0 +1,9 @@
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\bin\Release\DataSerializedTransmission.dll
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\bin\Release\DataSerializedTransmission.pdb
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\bin\Release\DataSerializedTransmission.xml
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\obj\Release\ResolveAssemblyReference.cache
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\obj\Release\DataSerializedTransmission.Resources.resources
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\obj\Release\DataSerializedTransmission.vbproj.GenerateResource.Cache
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\obj\Release\DataSerializedTransmission.dll
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\obj\Release\DataSerializedTransmission.xml
+C:\PROYECTOS\GESAP\DataSerializedTransmission\DataSerializedTransmission\obj\Release\DataSerializedTransmission.pdb
