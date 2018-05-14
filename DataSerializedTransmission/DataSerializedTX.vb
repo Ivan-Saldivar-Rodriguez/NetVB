@@ -10,13 +10,8 @@
 '//           * IVAN SALDIVAR RODRIGUEZ                               //
 '//           * JOSE CORTÉS ARANEDA                                   //
 '//                                                                   //
-'// Y SU USO NO AUTORIZADO SERÁ SANCIONADO DE ACUERDO A LAS LEYES DE  //
-'// DERECHO  DE AUTOR VIGENTES EN EL PAÍS DONDE SE HAYA COMETIDO LA   //
-'// FALTA.                                                            //
-'// SE PROHIBE LA COPIA, REPRODUCCIÓN Y DISTRIBUCIÓN CON FINES        //
-'// COMERCIALES  SIN PREVIA AUTORIZACIÓN. LOS ALGORITMO QUE           //
-'// COMPONEN ESTE SOFTWARE PROPIEDAD DEL AUTOR, POR LO TANTO, ESTOS   //
-'// FORMA PARTE INTEGRA DEL CÓDIGO EN EL CUAL SE HAN IMPLEMENTADO.    //
+'// SU USO ESTÁ AUTORIZADO BAJO LICENCIA                              //                                                          
+'// Attribution 4.0 International (CC BY 4.0)                         //
 '//                                                                   //
 '// SANTIAGO - CHILE, 2012-01-01                                      //       
 '//                                                                   //
