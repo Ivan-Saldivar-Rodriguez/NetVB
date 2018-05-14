@@ -1,19 +1,17 @@
-﻿'//////////////////////////////////////////////////////////////////////////////
-'//                                                                          //
-'// LOAD BALANCER - WEBSERVICE CONNECTION   V.1                              //
-'//                                                                          //
-'// IVAN SALDIVAR RODRIGUEZ (R)2011                                          //
-'//                                                                          //
-'// TODOS LOS DERECHOS DE COPIA ESTÁN RESERVADOS A IVAN SALDIVAR RODRIGUEZ,  //
-'// SU USO NO AUTORIZADO SERÁ SANCIONADO DE ACUERDO A LAS LEYES DE DERECHO   //
-'// DE AUTOR VIGENTES EN EL PAÍS DONDE SE HAYA COMETIDO LA FALTA.            //
-'// SE PROHIBE LA COPIA, REPRODUCCIÓN Y DISTRIBUCIÓN CON FINES COMERCIALES   //
-'// SIN PREVIA AUTORIZACIÓN. EL ALGORITMO DE BALANCEO ES PROPIEDAD DEL AUTOR //
-'// ,POR LO TANTO, ESTE FORMA PARTE INTEGRA DEL CÓDIGO EN EL CUAL SE HA      //
-'// IMPLEMENTADO.                                                            //
-'//                                                                          //
-'// SANTIAGO - CHILE, 2011-01-01                                             //
-'//////////////////////////////////////////////////////////////////////////////
+'///////////////////////////////////////////////////////////////////////
+'//                                                                   //
+'// LOAD BALANCER - WEBSERVICE CONNECTION   V.1                       //
+'//                                                                   //
+'// IVAN SALDIVAR RODRIGUEZ (R)2011                                   //
+'//                                                                   //
+'//                                                                   //
+'// SU USO ESTÁ AUTORIZADO BAJO LICENCIA                              //                                                          
+'// Attribution 4.0 International (CC BY 4.0)                         //
+'//                                                                   //
+'// SANTIAGO - CHILE, 2012-01-01                                      //       
+'//                                                                   //
+'///////////////////////////////////////////////////////////////////////
+
 Imports Microsoft.Win32
 
 Public Class LoadBalancerWS
